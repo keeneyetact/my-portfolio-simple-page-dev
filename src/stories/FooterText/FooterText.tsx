@@ -35,9 +35,9 @@ export const FooterText = ({ ...props }: FooterTextProps) => {
 					>
 						React
 					</a>
-					&nbsp;by YangYi Hao.
+					&nbsp;by Nagisa Taro.
 				</p>
-				<p>All Rights Reserved &reg; Copyright &copy; {currYear} YangYi Hao.</p>
+				<p>All Rights Reserved &reg; Copyright &copy; {currYear} Nagisa Taro.</p>
 			</div>
 		</>
 	);

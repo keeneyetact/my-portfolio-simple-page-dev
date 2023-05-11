@@ -49,7 +49,7 @@ export const SocialMediaCarousel = ({ ...props }: SocialMediaCarouselProps) => {
 							programming, content creation, writing tips and so much more.
 						</p>
 						<a
-							href="https://github.com/YangYiHao"
+							href="https://github.com/NagisaTaro"
 							rel="noopener noreferrer"
 							target="_blank"
 							className={activeTheme === 'light' ? 'carousel-button-light-theme' : 'carousel-button-dark-theme'}
@@ -156,7 +156,7 @@ export const SocialMediaCarousel = ({ ...props }: SocialMediaCarouselProps) => {
 							to.
 						</p>
 						<a
-							href="https://github.com/YangYiHao/"
+							href="https://github.com/NagisaTaro/"
 							rel="noopener noreferrer"
 							target="_blank"
 							className={activeTheme === 'light' ? 'carousel-button-light-theme' : 'carousel-button-dark-theme'}
@@ -275,7 +275,7 @@ export const SocialMediaCarousel = ({ ...props }: SocialMediaCarouselProps) => {
 							us excited!
 						</p>
 						<a
-							href="https://github.com/YangYiHao_tech/"
+							href="https://github.com/NagisaTaro_tech/"
 							rel="noopener noreferrer"
 							target="_blank"
 							className={activeTheme === 'light' ? 'carousel-button-light-theme' : 'carousel-button-dark-theme'}

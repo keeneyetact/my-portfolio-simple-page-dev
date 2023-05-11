@@ -31,7 +31,7 @@ export const Header = ({ aboutRef, scoialMediaRef, skillsRef, contactRef, homeRe
 								handleScroll(homeRef.current);
 							}}
 						>
-							<img src={Logo} alt="YangYi Hao Logo" />
+							<img src={Logo} alt="Nagisa Taro Logo" />
 						</a>
 					</div>
 					<div className="navigation">
@@ -107,7 +107,7 @@ export const Header = ({ aboutRef, scoialMediaRef, skillsRef, contactRef, homeRe
 									handleScroll(homeRef.current);
 								}}
 							>
-								<img src={Logo} alt="YangYi Hao Logo" />
+								<img src={Logo} alt="Nagisa Taro Logo" />
 							</a>
 						</div>
 						<ul>
