@@ -12,9 +12,9 @@ export const HeroProfile = ({ ...props }: HeroProfileprops) => {
     <>
       <div className="hero-profile-container">
         <div className="hero-profile">
-          <img src={profilePictureHero} alt="Nagisa Taro Profile" />
+          <img src={profilePictureHero} alt="YangYi Hao Profile" />
           <p>Hey there I'm,</p>
-          <h1>Nagisa Taro</h1>
+          <h1>YangYi Hao</h1>
           <Typewriter
             options={{
               strings: [

@@ -9,7 +9,7 @@ export const AboutProfileText = ({ ...props }: AboutProfileTextProps) => {
       <article className="about-profile-text">
         <p>Hey there you super awesome person!</p>
         <p>
-          My name is Nagisa Taro, and I am a Software Developer from London, England.
+          My name is YangYi Hao, and I am a Software Developer from London, England.
         </p>
         <p>
           Programming, content creation and technical writing are 3 of my best
